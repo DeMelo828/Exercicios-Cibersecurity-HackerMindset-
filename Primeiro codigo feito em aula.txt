@@ -1,0 +1,9 @@
+$ cat cp1-v2.sh
+echo "Informações do sistema"
+echo "Sistema Operacional $(uname -a)"
+echo "CPU: Itel CORE i5-8400"
+echo "Memória: 32gb"
+echo "Espaço em disco total: 634gb"
+ 
+echo "=====informções do usuário====="
+echo "Nome do usuário: Vitor"
